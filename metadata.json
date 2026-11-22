@@ -1,0 +1,6 @@
+{
+  "name": "VeriHire — Proof-of-Work & Anti-Ghosting Recruitment System",
+  "description": "Full-stack job recruitment platform built with React, Express, and MongoDB that eliminates resume black holes and candidate ghosting through blind proof-of-work micro-simulations and enforced 72-hour feedback SLAs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
